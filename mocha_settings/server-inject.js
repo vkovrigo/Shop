@@ -1,6 +1,7 @@
 'use strict';
 
 process.env.NODE_PATH = 'src/server';
+process.env.SHOP = 'test';
 
 require('module').Module._initPaths();
 
